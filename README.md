@@ -25,6 +25,8 @@ The screenshots below are taken on amy device MI NOTE 5 PRO.
 # 👀 Similar Projects
 * [#2 LogIn UI](https://github.com/theindianappguy/Android_XML_LOGIN_UI_KIT_2) - Login Screen with Facebook Button XML ONLY
 * [#3 Login UI](https://github.com/theindianappguy/Android_XML_LOGIN_UI_KIT_3) - Pink Login UI XML
+* [#4 Login UI](https://github.com/theindianappguy/Android_XML_Login_UI_4) - Login UI XML
+* [#5 Login UI](https://github.com/theindianappguy/Android_Xml_Login_UI_5) - Login UI XML
 
 # 📢 Other popular Uploads
 * [Firebase Login & Register Screen with Phone Auth](https://github.com/theindianappguy/Login-SignupUI-FirebasePhoneauth) - The UI is awesome so is the code
